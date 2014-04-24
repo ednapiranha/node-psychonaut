@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git://github.com/ednapiranha/node-psychonaut.git"
   },
-  "keywords": ["autotag", "tags", "bloomfilter", "language"],
+  "keywords": ["auto tag", "tags", "bloom filter", "language", "natural language"],
   "author": "Edna Piranha <jen@ednapiranha.com> (http://ednapiranha.com)",
   "license": "BSD"
 }
