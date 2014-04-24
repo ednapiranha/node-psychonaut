@@ -1,0 +1,24 @@
+{
+  "name": "psychonaut",
+  "version": "0.0.0",
+  "description": "bloom filter testing of tagged words",
+  "main": "main.js",
+  "dependencies": {
+    "natural": "~0.1.27",
+    "bloomfilter": "~0.0.14"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ednapiranha/node-psychonaut.git"
+  },
+  "keywords": ["autotag", "tags", "bloomfilter", "language"],
+  "author": "Edna Piranha <jen@ednapiranha.com> (http://ednapiranha.com)",
+  "license": "BSD"
+}
