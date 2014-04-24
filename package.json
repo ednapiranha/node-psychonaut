@@ -1,6 +1,6 @@
 {
   "name": "psychonaut",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "bloom filter testing of tagged words",
   "main": "main.js",
   "dependencies": {
